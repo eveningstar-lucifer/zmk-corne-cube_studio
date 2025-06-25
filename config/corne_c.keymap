@@ -30,7 +30,7 @@
             compatible = "zmk,behavior-tap-dance";
             label = "TD0";
             #binding-cells = <0>;
-            bindings = <&ht ESCAPE BACKSLASH>, <&kp TAB>;
+            bindings = <&ht ESCAPE TILDE>, <&kp TAB>;
         };
 
         td3: td3 {
